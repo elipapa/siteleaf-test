@@ -11,5 +11,7 @@ the about page
 
 bla bla
 
+![logo.png]({{site.baseurl}}/logo.png)
+
 
 ![]({{site.baseurl}}/logo.png)
