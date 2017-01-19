@@ -12,4 +12,4 @@ the about page
 bla bla
 
 
-![]({{site.baseurl}}//logo.png)
+![]({{site.baseurl}}/logo.png)
